@@ -1,0 +1,87 @@
+{
+  "category": "Government & CERT",
+  "description": "Official security advisories, alerts, and intelligence from government agencies and national CERTs",
+  "updated": "2026-04-03",
+  "feeds": [
+    {
+      "name": "CISA Alerts",
+      "url": "https://www.cisa.gov/uscert/ncas/alerts.xml",
+      "description": "US CISA critical infrastructure alerts",
+      "tags": ["government", "advisory"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "CISA News",
+      "url": "https://www.cisa.gov/news.xml",
+      "description": "US CISA news and announcements",
+      "tags": ["government", "advisory"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "CISA Known Exploited Vulnerabilities",
+      "url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+      "description": "KEV catalog JSON feed",
+      "tags": ["government", "cve", "exploit"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "NCSC UK Alerts",
+      "url": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+      "description": "UK National Cyber Security Centre alerts",
+      "tags": ["government", "advisory"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "CERT/CC Vulnerability Notes",
+      "url": "https://www.kb.cert.org/vuls/atomfeed/",
+      "description": "Carnegie Mellon CERT vulnerability notes",
+      "tags": ["government", "cve", "advisory"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "ENISA Publications",
+      "url": "https://www.enisa.europa.eu/publications/rss",
+      "description": "EU Agency for Cybersecurity publications",
+      "tags": ["government", "research"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Australian Cyber Security Centre",
+      "url": "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/feed",
+      "description": "Australian ACSC alerts and advisories",
+      "tags": ["government", "advisory"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "JPCERT/CC",
+      "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
+      "description": "Japan CERT advisories and alerts",
+      "tags": ["government", "advisory"],
+      "language": "ja",
+      "active": true
+    },
+    {
+      "name": "BSI Advisories (Germany)",
+      "url": "https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed_CS.xml",
+      "description": "German Federal Office for Information Security",
+      "tags": ["government", "advisory"],
+      "language": "de",
+      "active": true
+    },
+    {
+      "name": "Singapore CSA",
+      "url": "https://www.csa.gov.sg/rss/news",
+      "description": "Singapore Cyber Security Agency news",
+      "tags": ["government", "advisory"],
+      "language": "en",
+      "active": true
+    }
+  ]
+}

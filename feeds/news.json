@@ -1,0 +1,87 @@
+{
+  "category": "News",
+  "description": "General cybersecurity news, reporting, and industry coverage",
+  "updated": "2026-04-03",
+  "feeds": [
+    {
+      "name": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/feed/",
+      "description": "Investigative security journalism by Brian Krebs",
+      "tags": ["news", "investigative"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Bleeping Computer",
+      "url": "https://www.bleepingcomputer.com/feed/",
+      "description": "Breaking news, malware alerts, tech support",
+      "tags": ["news", "malware"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "The Hacker News",
+      "url": "https://feeds.feedburner.com/TheHackersNews",
+      "description": "Daily infosec news and tutorials",
+      "tags": ["news"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Dark Reading",
+      "url": "https://www.darkreading.com/rss.xml",
+      "description": "Enterprise security news and analysis",
+      "tags": ["news"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "SecurityWeek",
+      "url": "https://feeds.feedburner.com/Securityweek",
+      "description": "Cybersecurity news, analysis, and research",
+      "tags": ["news", "research"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "SC Magazine",
+      "url": "https://www.scmagazine.com/rss",
+      "description": "Enterprise cybersecurity news and reviews",
+      "tags": ["news"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Infosecurity Magazine",
+      "url": "https://www.infosecurity-magazine.com/rss/news/",
+      "description": "Global infosec news and features",
+      "tags": ["news"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "CSO Online",
+      "url": "https://www.csoonline.com/feed/",
+      "description": "Security leadership and strategy",
+      "tags": ["news"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/feed/",
+      "description": "Security product news and expert analysis",
+      "tags": ["news"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "The Register - Security",
+      "url": "https://www.theregister.com/security/headlines.atom",
+      "description": "Tech and security news with a critical edge",
+      "tags": ["news"],
+      "language": "en",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "category": "Vulnerabilities",
+  "description": "CVE disclosures, security advisories, exploit databases, and patch tracking",
+  "updated": "2026-04-03",
+  "feeds": [
+    {
+      "name": "NVD - NIST (Recent CVEs)",
+      "url": "https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml",
+      "description": "Official US National Vulnerability Database CVE feed",
+      "tags": ["cve", "advisory"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Exploit Database",
+      "url": "https://www.exploit-db.com/rss.xml",
+      "description": "Public exploits and PoC from Offensive Security",
+      "tags": ["exploit", "cve"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Packet Storm Security",
+      "url": "https://rss.packetstormsecurity.com/",
+      "description": "Exploits, advisories, and security tools",
+      "tags": ["exploit", "advisory"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Full Disclosure (Seclists)",
+      "url": "https://seclists.org/rss/fulldisclosure.rss",
+      "description": "Raw vulnerability and exploit disclosures",
+      "tags": ["exploit", "cve"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Rapid7 Blog",
+      "url": "https://www.rapid7.com/blog/feed/",
+      "description": "Vulnerability research and exploit development",
+      "tags": ["cve", "research"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Tenable Blog",
+      "url": "https://www.tenable.com/blog/feed",
+      "description": "Vulnerability management and research",
+      "tags": ["cve", "advisory"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Qualys Security Blog",
+      "url": "https://blog.qualys.com/feed",
+      "description": "VM, cloud security, and threat research",
+      "tags": ["cve"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "VulDB Recent Entries",
+      "url": "https://vuldb.com/?rss.recent",
+      "description": "Vulnerability database recent entries",
+      "tags": ["cve"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Zero Day Initiative",
+      "url": "https://www.zerodayinitiative.com/rss/published/",
+      "description": "Trend Micro ZDI advisories",
+      "tags": ["cve", "exploit", "advisory"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Synacktiv Blog",
+      "url": "https://www.synacktiv.com/en/publications.rss",
+      "description": "Offensive security research and CVE write-ups",
+      "tags": ["exploit", "research"],
+      "language": "en",
+      "active": true
+    }
+  ]
+}

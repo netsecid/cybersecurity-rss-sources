@@ -1,0 +1,87 @@
+{
+  "category": "Threat Intelligence",
+  "description": "Feeds covering threat actor tracking, IOCs, TTPs, campaign analysis, and intelligence reports",
+  "updated": "2026-04-03",
+  "feeds": [
+    {
+      "name": "SANS Internet Storm Center",
+      "url": "https://isc.sans.edu/rssfeed.xml",
+      "description": "Daily handler diaries and threat reports",
+      "tags": ["threat-intel", "advisory"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Recorded Future Blog",
+      "url": "https://www.recordedfuture.com/feed",
+      "description": "Threat intelligence research and analysis",
+      "tags": ["threat-intel", "apt"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Cisco Talos Intelligence",
+      "url": "https://blog.talosintelligence.com/feeds/posts/default",
+      "description": "Threat research from Cisco Talos team",
+      "tags": ["threat-intel", "malware", "research"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Palo Alto Unit 42",
+      "url": "https://unit42.paloaltonetworks.com/feed/",
+      "description": "Threat research from Unit 42",
+      "tags": ["threat-intel", "apt", "malware"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Mandiant Blog",
+      "url": "https://www.mandiant.com/resources/blog/rss.xml",
+      "description": "Incident response and threat intelligence",
+      "tags": ["threat-intel", "apt"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "CrowdStrike Blog",
+      "url": "https://www.crowdstrike.com/blog/feed/",
+      "description": "Adversary intelligence and threat research",
+      "tags": ["threat-intel", "apt", "ransomware"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Secureworks CTU",
+      "url": "https://www.secureworks.com/rss?feed=blog",
+      "description": "Counter Threat Unit research",
+      "tags": ["threat-intel", "apt"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Team Cymru Blog",
+      "url": "https://team-cymru.com/feed/",
+      "description": "Internet threat intelligence and research",
+      "tags": ["threat-intel"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Intel 471 Blog",
+      "url": "https://intel471.com/blog/feed",
+      "description": "Underground economy and cybercrime intelligence",
+      "tags": ["threat-intel", "apt"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "Anomali Blog",
+      "url": "https://www.anomali.com/blog/rss.xml",
+      "description": "Threat intelligence insights",
+      "tags": ["threat-intel"],
+      "language": "en",
+      "active": true
+    }
+  ]
+}
