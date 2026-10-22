@@ -14,3 +14,4 @@ Feeds covering threat actor tracking, IOCs, TTPs, campaign analysis, and intelli
 | Team Cymru Blog | https://team-cymru.com/feed/ | Internet threat intelligence and research | `threat-intel` | en | Yes |
 | Intel 471 Blog | https://intel471.com/blog/feed | Underground economy and cybercrime intelligence | `threat-intel` `apt` | en | Yes |
 | Threat Intelligence by Anomali | https://www.anomali.com/blog/rss.xml | Threat intelligence insights | `threat-intel` | en | Yes |
+| ICHI Internet Cyber Health Index | https://ichi.global/api/alerts | Daily barometer of internet-wide cyber health; aggregates threat feeds, CISA KEV, EPSS, ransomware trackers, and network monitoring into an hourly composite score | `threat-intel` `feeds` `health-index` | en | Yes |
