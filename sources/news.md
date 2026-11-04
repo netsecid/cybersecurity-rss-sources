@@ -14,3 +14,4 @@ General cybersecurity news, reporting, and industry coverage.
 | CSO Online | https://www.csoonline.com/feed/ | Security leadership and strategy | `news` | en | Yes |
 | Help Net Security | https://www.helpnetsecurity.com/feed/ | Security product news and expert analysis | `news` | en | Yes |
 | The Register - Security | https://www.theregister.com/security/headlines.atom | Tech and security news with a critical edge | `news` | en | Yes |
+| SecQuill | https://secquill.com/rss.xml | AI-assisted cybersecurity news with source-linked reporting and defensive analysis | `news` `vulnerabilities` | en | Yes |
