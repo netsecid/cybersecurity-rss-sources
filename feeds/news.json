@@ -1,7 +1,7 @@
 {
   "category": "News",
   "description": "General cybersecurity news, reporting, and industry coverage",
-  "updated": "2026-04-03",
+  "updated": "2026-11-04",
   "feeds": [
     {
       "name": "Krebs on Security",
@@ -80,6 +80,14 @@
       "url": "https://www.theregister.com/security/headlines.atom",
       "description": "Tech and security news with a critical edge",
       "tags": ["news"],
+      "language": "en",
+      "active": true
+    },
+    {
+      "name": "SecQuill",
+      "url": "https://secquill.com/rss.xml",
+      "description": "AI-assisted cybersecurity news with source-linked reporting and defensive analysis",
+      "tags": ["news", "vulnerabilities"],
       "language": "en",
       "active": true
     }

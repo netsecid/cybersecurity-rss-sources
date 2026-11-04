@@ -1,8 +1,8 @@
 {
   "name": "Cybersecurity RSS Sources",
   "description": "Personal curated collection of cybersecurity RSS feeds",
-  "updated": "2026-04-03",
-  "total": 60,
+  "updated": "2026-11-04",
+  "total": 61,
   "categories": [
     {
       "category": "News",
@@ -85,6 +85,14 @@
           "url": "https://www.theregister.com/security/headlines.atom",
           "description": "Tech and security news with a critical edge",
           "tags": ["news"],
+          "language": "en",
+          "active": true
+        },
+        {
+          "name": "SecQuill",
+          "url": "https://secquill.com/rss.xml",
+          "description": "AI-assisted cybersecurity news with source-linked reporting and defensive analysis",
+          "tags": ["news", "vulnerabilities"],
           "language": "en",
           "active": true
         }
